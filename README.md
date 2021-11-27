@@ -17,11 +17,11 @@ This file is written in **_Markdown!_**.
 
 3) Miss penalty: L1\_cache = 6 cycles, L2\_cache = 50 cycles  
   Από τα αρχεία της προσομοίωσης:  
- 1. IL1.miss\_num = 332
- 2. DL1.miss\_num = 179
- 3. L2.miss\_num = 479
- 4. Total\_inst\_num = 5028  
-Άρα υπολογίζουμε ότι CPI = 6.3731
+ * **IL1.miss\_num** = 332
+ * **DL1.miss\_num** = 179
+ * **L2.miss\_num** = 479
+ * **Total\_inst\_num** = 5028  
+Άρα υπολογίζουμε ότι **_CPI_** = 6.3731
 
 
 
