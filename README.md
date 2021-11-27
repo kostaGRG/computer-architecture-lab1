@@ -1,8 +1,8 @@
-###Computer Architecture: Lab 1
+### Computer Architecture: Lab 1
 
 This file is written in **_Markdown!_**.
 
-####Απαντήσεις
+#### Απαντήσεις
 1) Οι βασικές παράμετροι της προσομοίωσης είναι οι εξής:
 * **CPU type** = Minor: Στον συγκεκριμένο τύπο επεξεργαστή υπάρχει L1 instruction cache, L1 data cache, walk cache και L2 cache.
 * **CPU frequency** = 4 GHz (default value): Εφόσον δε προσθέσαμε δική μας τιμή, η συχνότητα του επεξεργαστή διατηρεί την καθορισμένη τιμή. Θα μπορούσαμε να την αλλάξουμε αν προσθέταμε κατα την εκτέλεση της προσομοίωσης το flag --cpu-freq CPU\_FREQ.
