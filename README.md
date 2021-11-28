@@ -46,6 +46,11 @@ This file is written in **_Markdown!_**.
 * **Timing Simple CPU time** = 0.000102 seconds
 >Εδώ η βελτιστοποίηση στον χρόνο εκτέλεσης είναι ελάχιστη στο πρώτο μοντέλο και μηδενική στο δεύτερο.
 
+Τα παραπάνω μπορούν να συμπυκνωθούν στον παρακάτω πίνακα:
+| |initial state|higher frequency|faster memory|
+|:-----------:|:---------:|:----------:|:----------:|
+|Minor CPU|0.00063|0.000058|0.000062|
+|Timing Simple CPU|0.000102|0.000097|0.000102|
 
 #### Πηγές
 1. [Git tutorial](https://www.freecodecamp.org/news/the-essential-git-handbook-a1cf77ed11b5/)  
