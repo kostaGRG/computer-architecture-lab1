@@ -61,3 +61,6 @@ This file is written in **_Markdown!_**.
 6. [Memory system access types](https://www.gem5.org/documentation/general_docs/memory_system/index.html#access-types)  
 7. [CPU types](https://cirosantilli.com/linux-kernel-module-cheat/#gem5-cpu-types)  
 
+#### Κριτική
+Κατά τη γνώμη μου, η εργασία ως πρώτη στο μάθημα αυτό είχε το κατάλληλο επίπεδο δυσκολίας: ούτε πολύ εύκολη ώστε να μην μπορέσεις να μάθεις κάτι ουσιαστικό από την ενασχόληση με αυτήν, ούτε όμως δύσκολη σε βαθμό να αποθαρρύνει τον φοιτητή από την προσπάθεια διεκπεραίωσης της. Προσωπικά, με δυσκόλεψε αρκετά το git σαν εργαλείο παρόλο που δε το περίμενα και το link που είχατε βάλει ήταν αναλυτικό.
+
