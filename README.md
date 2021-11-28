@@ -46,11 +46,11 @@ This file is written in **_Markdown!_**.
 * **Timing Simple CPU time** = 0.000102 seconds
 
 #### Πηγές
-[Git tutorial](https://www.freecodecamp.org/news/the-essential-git-handbook-a1cf77ed11b5/)
-[Markdown tutorial](https://www.markdowntutorial.com/)
-[Gem5](https://www.gem5.org)
-[Minor CPU](https://www.gem5.org/documentation/general_docs/cpu_models/minor_cpu)
-[Simple CPU](https://www.gem5.org/documentation/general_docs/cpu_models/SimpleCPU)
-[Memory system access types](https://www.gem5.org/documentation/general_docs/memory_system/index.html#access-types)
-[CPU types](https://cirosantilli.com/linux-kernel-module-cheat/#gem5-cpu-types)
+1. [Git tutorial](https://www.freecodecamp.org/news/the-essential-git-handbook-a1cf77ed11b5/)  
+2. [Markdown tutorial](https://www.markdowntutorial.com/)  
+3. [Gem5](https://www.gem5.org)  
+4. [Minor CPU](https://www.gem5.org/documentation/general_docs/cpu_models/minor_cpu)  
+5. [Simple CPU](https://www.gem5.org/documentation/general_docs/cpu_models/SimpleCPU)  
+6. [Memory system access types](https://www.gem5.org/documentation/general_docs/memory_system/index.html#access-types)  
+7. [CPU types](https://cirosantilli.com/linux-kernel-module-cheat/#gem5-cpu-types)  
 
