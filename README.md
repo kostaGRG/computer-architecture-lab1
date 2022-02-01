@@ -66,7 +66,7 @@ This file is written in **_Markdown!_**.
 
 #### Στοιχεία φοιτητών
 1. Ονοματεπώνυμο: Κωνσταντίνος Γερογιάννης  
-   Email: konsgero@ece.auth.gr  
+   Email: kostas.gerogiannis04@gmail.com  
    Github: [kostaGRG](https://github.com/kostaGRG/)  
 2. Ονοματεπώνυμο: Κατερίνα Βοσνιάδου  
    Email: katerinavosn@gmail.com  
