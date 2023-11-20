@@ -83,7 +83,7 @@ The previous experiments can be summed up on the following table:
 |Minor CPU|0.00063|0.000058|0.000062|
 |Timing Simple CPU|0.000102|0.000097|0.000102|
 
-#### References
+## References
 1. [Git tutorial](https://www.freecodecamp.org/news/the-essential-git-handbook-a1cf77ed11b5/)  
 2. [Markdown tutorial](https://www.markdowntutorial.com/)  
 3. [Gem5](https://www.gem5.org)  
@@ -92,5 +92,5 @@ The previous experiments can be summed up on the following table:
 6. [Memory system access types](https://www.gem5.org/documentation/general_docs/memory_system/index.html#access-types)  
 7. [CPU types](https://cirosantilli.com/linux-kernel-module-cheat/#gem5-cpu-types)  
 
-#### Review
+## Review
 In my opinion, the assignment as the first one in this course had the appropriate level of difficulty: not too easy so that you couldn't learn something substantial from it, but also not too difficult to discourage the student from completing it. Personally, I found git to be quite challenging as a tool, and I had to watch several explanatory videos, even though the link you provided was detailed.
