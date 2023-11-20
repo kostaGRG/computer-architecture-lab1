@@ -20,6 +20,7 @@ This project is created for the university class named Computer Architecture at 
 ![Equation 0](/images/equation0.png)
 
 4. It is important to be able to refer to and search for information in the literature. So, using the gem5 website (gem5.org) as a starting point, look for information about the different in-order CPU models used by gem5 (hint: in the example, you used the CPU model "minor") and provide a brief paragraph for each of them.
+
 a) Write a program in C and execute it in gem5 using different CPU models while keeping all other parameters the same. Use the TimingSimpleCPU and MinorCPU models.
 (Note: Do not use the same configuration file (starter_se.py) but use the file configs/example/se.py instead.)
 
